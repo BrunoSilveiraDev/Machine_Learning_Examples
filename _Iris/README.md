@@ -2,7 +2,7 @@
 Some examples which I've been training and learning from tutorials, blogs, books, etc. 
 
 
-# Reference:
+# Forked from
 https://www.kaggle.com/jchen2186/machine-learning-with-iris-dataset
 
 # Where to Download Iris Dataset
